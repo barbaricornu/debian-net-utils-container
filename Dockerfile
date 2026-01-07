@@ -1,4 +1,4 @@
-FROM debian:latest
+FROM debian:12.12
 
 # Metadata
 LABEL maintainer="barbaricornu@outlook.com"
