@@ -1,5 +1,6 @@
 FROM debian:latest
 
+# Metadata
 LABEL maintainer="barbaricornu@outlook.com"
 LABEL description="A debian container image with networking tools installed for testing and diagnostics."
 
