@@ -50,4 +50,5 @@ RUN apt-get update && apt-get install -y \
 
 WORKDIR /root
 
-CMD ["/bin/bash"]
+#CMD ["/bin/bash"]
+CMD ["sleep", "infinity"]
